@@ -1,7 +1,8 @@
 "# Nixpend-Python-Assignment" 
 
-You should be able to find all the description for each assignment inside the "Nixpend Python Assignment V1.0 20221221.pdf" file .
+( SQL , HTML , CSS , JavaScript , Bootstrap5 , Falsk )
 
+You should be able to find all the description for each assignment inside the "Nixpend Python Assignment V1.0 20221221.pdf" file .
 
 Make sure you have flask downloaded on you machine , if it is not , then run :
 
@@ -21,4 +22,3 @@ To run the flask application , first navigate to the root directory ( the folder
 ```
 flask run
 ```
-
