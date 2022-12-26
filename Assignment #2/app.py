@@ -32,7 +32,7 @@ def generate_pdf():
     c.showPage()
     c.save()
     
-    with open('success.html', 'r') as f:
+    with open('templates/success.html', 'r') as f:
         html_text = f.read()
 
     return html_text
